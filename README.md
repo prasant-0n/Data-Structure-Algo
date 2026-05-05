@@ -35,5 +35,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/prasant-0n/Data-Structure-Algo/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/prasant-0n/Data-Structure-Algo/tree/master/0989-add-to-array-form-of-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/prasant-0n/Data-Structure-Algo/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
